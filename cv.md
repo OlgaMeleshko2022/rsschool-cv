@@ -10,7 +10,7 @@
    <div class="first">
     <h1>РЕЗЮМЕ</h1> 
     <p class="name">Мелешко Ольга Володимирівна</p>
-    <img src="./foto1.jpg" alt="Meleshko Olha" width="120px" height="180px">
+    
     <table class="info">
         <tr>
             <th>Вік</th>
